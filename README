@@ -1,0 +1,15 @@
+cd desktop
+npx create-expo-app react-app –-template 
+cd react-app
+npx expo install react-native-web react-dom @expo/metro-runtime
+npx expo start
+
+
+
+
+
+npm install react-native-swiper
+npm install @expo/vector-icons
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install 
