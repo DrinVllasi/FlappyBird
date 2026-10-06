@@ -5,11 +5,25 @@ npx expo install react-native-web react-dom @expo/metro-runtime
 npx expo start
 
 
-
-
-
 npm install react-native-swiper
 npm install @expo/vector-icons
 npm install @react-navigation/native
 npm install @react-navigation/stack
 npm install 
+
+now do u got any idea of what to do as a final personal project with react native, ill tell you what we can use
+Flatlist
+Buttons
+screen navigations
+box object model
+fetching data from API
+fetching data from JSON
+boilerplate&stack navigator
+tab navigation
+drawer navigation
+swiper carousel
+icons
+products section
+IOS products screen
+android products screen
+single view screen
